@@ -1,0 +1,87 @@
+reading tree...
+Tree 1 has 50 leaves.
+reading data...
+Reading species: an 1000110101
+Reading species: am 0011101110
+Reading species: al 1010101111
+Reading species: ak 1110010011
+Reading species: aj 1111011010
+Reading species: ai 1011000001
+Reading species: ah 0100101000
+Reading species: ag 0100010100
+Reading species: af 1001100010
+Reading species: ae 1100101001
+Reading species: ad 0011110001
+Reading species: ac 0011011010
+Reading species: ab 0010111000
+Reading species: aa 1000110011
+Reading species: bx 1001000011
+Reading species: bw 0000111010
+Reading species: bv 1011011101
+Reading species: bu 1001011111
+Reading species: bt 0000111011
+Reading species: bs 1111100100
+Reading species: br 0100010110
+Reading species: bq 0001010011
+Reading species: bp 0011110100
+Reading species: bo 0100110000
+Reading species: bn 0010100000
+Reading species: bm 1001111010
+Reading species: bl 0111000100
+Reading species: bk 0011101011
+Reading species: bj 0110111001
+Reading species: bi 1010011101
+Reading species: bh 0100001000
+Reading species: bg 0100010101
+Reading species: bf 1111101100
+Reading species: be 0001100110
+Reading species: bd 0101011011
+Reading species: bc 1001110010
+Reading species: bb 1011100100
+Reading species: ba 0001100001
+Reading species: az 0010110111
+Reading species: ay 0101111100
+Reading species: ax 0000011010
+Reading species: aw 0000110111
+Reading species: av 1010111010
+Reading species: au 0001101010
+Reading species: at 0100111010
+Reading species: as 1111000111
+Reading species: ar 0100000111
+Reading species: aq 0101001001
+Reading species: ap 1000010011
+Reading species: ao 1000010001
+checking data...
+running analysis...
+Starting Workers
+Making Worker #1
+Making Worker #2
+Waiting for workers to finish
+Initial LLH: -719.149
+(disp: 0.01, ext: 0.01): -719.149
+(disp: 0.105624, ext: 0.0198437): -423.184
+(disp: 0.158124, ext: 0.0592183): -420.887
+(disp: 0.162342, ext: 0.307067): -406.694
+(disp: 0.499253, ext: 1.71075): -386.102
+(disp: 0.63264, ext: 1.69484): -386.301
+(disp: 0.718189, ext: 2.20751): -383.907
+(disp: 0.721117, ext: 2.25381): -383.865
+(disp: 0.720054, ext: 2.25723): -383.864
+(disp: 0.720153, ext: 2.25717): -383.864
+(disp: 0.720207, ext: 2.25716): -383.864
+(disp: 0.720168, ext: 2.25709): -383.864
+(disp: 0.720173, ext: 2.25712): -383.864
+(disp: 0.720176, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+(disp: 0.720177, ext: 2.25713): -383.864
+Final LLH: -383.864
+Computing reverse operations
+Computing state goals
+Analysis took: 20058.6s

@@ -1,0 +1,61 @@
+reading tree...
+Tree 1 has 50 leaves.
+reading data...
+Reading species: bg 1001100000
+Reading species: bf 0100110001
+Reading species: be 0101100111
+Reading species: bd 1011111011
+Reading species: bc 0001011001
+Reading species: bb 1111010111
+Reading species: ba 1111000000
+Reading species: az 1110010111
+Reading species: ay 1000000011
+Reading species: ax 1011011111
+Reading species: aw 1000001111
+Reading species: av 0101010100
+Reading species: au 0001001110
+Reading species: at 0110001011
+Reading species: as 1010011111
+Reading species: ar 1001100010
+Reading species: aq 0011110010
+Reading species: ap 0100100101
+Reading species: ao 1101100111
+Reading species: an 1001011010
+Reading species: am 0000100101
+Reading species: al 0011110110
+Reading species: ak 0001010100
+Reading species: aj 0101100000
+Reading species: ai 1100110101
+Reading species: ah 1111010011
+Reading species: ag 1100100000
+Reading species: af 1101010110
+Reading species: ae 0110110111
+Reading species: ad 1011111101
+Reading species: ac 1100101100
+Reading species: ab 1010101101
+Reading species: aa 1011111110
+Reading species: bx 1001000100
+Reading species: bw 1010111100
+Reading species: bv 1110111011
+Reading species: bu 0101010011
+Reading species: bt 0101100100
+Reading species: bs 1101100001
+Reading species: br 0010100000
+Reading species: bq 0101000001
+Reading species: bp 0101100100
+Reading species: bo 1001010001
+Reading species: bn 1001010110
+Reading species: bm 0101010110
+Reading species: bl 1010101001
+Reading species: bk 1110101100
+Reading species: bj 1011010100
+Reading species: bi 0011110110
+Reading species: bh 1000111011
+checking data...
+running analysis...
+Starting Workers
+Making Worker #1
+Making Worker #2
+Waiting for workers to finish
+Initial LLH: -779.77
+(disp: 0.01, ext: 0.01): -779.77
